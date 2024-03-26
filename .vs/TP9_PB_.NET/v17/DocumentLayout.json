@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|c:\\programacao\\back-end\\.net\\college\\tp9_pb_.net\\tp9_pb_.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|solutionrelative:tp9_pb_.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|c:\\programacao\\back-end\\.net\\college\\tp9_pb_.net\\tp9_pb_.net\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|solutionrelative:tp9_pb_.net\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|c:\\programacao\\back-end\\.net\\college\\tp9_pb_.net\\tp9_pb_.net\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|solutionrelative:tp9_pb_.net\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|c:\\programacao\\back-end\\.net\\college\\tp9_pb_.net\\tp9_pb_.net\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|solutionrelative:tp9_pb_.net\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|c:\\programacao\\back-end\\.net\\college\\tp9_pb_.net\\tp9_pb_.net\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A263CD-6CEC-44C8-859F-D717829C317A}|TP9_PB_.NET\\TP9_PB_.NET.csproj|solutionrelative:tp9_pb_.net\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\Program.cs",
+              "RelativeDocumentMoniker": "TP9_PB_.NET\\Program.cs",
+              "ToolTip": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\Program.cs",
+              "RelativeToolTip": "TP9_PB_.NET\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:50:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "TP9_PB_.NET\\models\\Disciplina.cs",
+              "ToolTip": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Disciplina.cs",
+              "RelativeToolTip": "TP9_PB_.NET\\models\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:43:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Turma.cs",
+              "RelativeDocumentMoniker": "TP9_PB_.NET\\models\\Turma.cs",
+              "ToolTip": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Turma.cs",
+              "RelativeToolTip": "TP9_PB_.NET\\models\\Turma.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:43:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Aluno.cs",
+              "RelativeDocumentMoniker": "TP9_PB_.NET\\models\\Aluno.cs",
+              "ToolTip": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Aluno.cs",
+              "RelativeToolTip": "TP9_PB_.NET\\models\\Aluno.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:43:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Professor.cs",
+              "RelativeDocumentMoniker": "TP9_PB_.NET\\models\\Professor.cs",
+              "ToolTip": "C:\\Programacao\\Back-end\\.NET\\College\\TP9_PB_.NET\\TP9_PB_.NET\\models\\Professor.cs",
+              "RelativeToolTip": "TP9_PB_.NET\\models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:47:41.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

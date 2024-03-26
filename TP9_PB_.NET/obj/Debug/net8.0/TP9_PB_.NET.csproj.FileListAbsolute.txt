@@ -1,0 +1,14 @@
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\bin\Debug\net8.0\TP9_PB_.NET.exe
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\bin\Debug\net8.0\TP9_PB_.NET.deps.json
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\bin\Debug\net8.0\TP9_PB_.NET.runtimeconfig.json
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\bin\Debug\net8.0\TP9_PB_.NET.dll
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\bin\Debug\net8.0\TP9_PB_.NET.pdb
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.AssemblyInfoInputs.cache
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.AssemblyInfo.cs
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.csproj.CoreCompileInputs.cache
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.dll
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\refint\TP9_PB_.NET.dll
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.pdb
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\TP9_PB_.NET.genruntimeconfig.cache
+C:\Programacao\Back-end\.NET\College\TP9_PB_.NET\TP9_PB_.NET\obj\Debug\net8.0\ref\TP9_PB_.NET.dll

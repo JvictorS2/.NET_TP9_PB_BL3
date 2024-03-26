@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SCA_MVC_TP9_PB.props" />
+</Project>
